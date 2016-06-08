@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:37:38.055040
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:27
 #+TITLE: 楞嚴經正脉疏科
 #+PROPERTY: CBETA_ID X12n0273
 #+PROPERTY: ID KR6j0681
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 12, No. 273
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0681_X_002-0103a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
-
- 楞嚴正脉二卷科文¶
+楞嚴正脉二卷科文¶
 ¶
 
   
@@ -470,7 +469,7 @@
   * 二逐破(阿難)¶
   * 二更與迭拂(三)¶
   
-  * 一拂已說者(當知)¶
+  * 一拂巳說者(當知)¶
   * 二拂未說者(非不)¶
   * 三情盡法真(離一)¶
   * 二責其滯情(二)¶
@@ -666,7 +665,7 @@
   
   * 一牒前述意(二)¶
   
-  * 一牒已開(阿難)¶
+  * 一牒巳開(阿難)¶
   * 二牒未開(而猶)¶
   * 二逐意發明(二)¶
   
@@ -807,7 +806,7 @@
   * 二分文各破(二)¶
   
   * 一非從空來(如是)¶
-  * 二非從掌出(三)¶
+  * 二非從掌出(二)¶
   
   * 一約出破之(若從)¶
   * 二約人破之(又掌)¶

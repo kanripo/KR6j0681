@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:37:38.114045
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:27
 #+TITLE: 楞嚴經正脉疏科
 #+PROPERTY: CBETA_ID X12n0273
 #+PROPERTY: ID KR6j0681
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 12, No. 273
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0681_X_004-0121a> 
 #+PROPERTY: JUAN 4
-
- 楞嚴正脉四卷科文¶
+楞嚴正脉四卷科文¶
 ¶
 
   
@@ -400,7 +399,7 @@
   
   * 一拂自然(本狂)¶
   * 二拂因緣(不狂)¶
-  * 三躡伸己意(若悟)¶
+  * 三躡伸巳意(若悟)¶
   * 二迭拂諸情(三)¶
   
   * 一先出兩種生滅(二)¶

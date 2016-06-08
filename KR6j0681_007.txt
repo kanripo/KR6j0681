@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:37:38.191079
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:27
 #+TITLE: 楞嚴經正脉疏科
 #+PROPERTY: CBETA_ID X12n0273
 #+PROPERTY: ID KR6j0681
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 12, No. 273
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0681_X_007-0144a> 
 #+PROPERTY: JUAN 7
-
- 楞嚴正脉七卷科文¶
+楞嚴正脉七卷科文¶
 ¶
 
   
@@ -83,7 +82,7 @@
   
   * 一阿難重請(二)¶
   
-  * 一述己開悟(阿難)¶
+  * 一述巳開悟(阿難)¶
   * 二代請軌則(末法)¶
   * 二世尊重說(三)¶
   
@@ -148,7 +147,7 @@
   
   * 一會眾重請(二)¶
   
-  * 一述己自請(三)¶
+  * 一述巳自請(三)¶
   
   * 一述遭術遇救(三)¶
   
@@ -263,7 +262,7 @@
   * 一積罪未懺(阿難)¶
   * 二誦呪滅盡(若能)¶
   * 六速證無生(不久)¶
-  * 三稱遂願求(二)¶
+  * 三稱遂願求(四)¶
   
   * 一生前願求(四)¶
   
@@ -335,7 +334,7 @@
 ¶
 
   
-  * △二說三摩提令依妙心一門深入已竟¶
+  * △二說三摩提令依妙心一門深入巳竟¶
 ¶
 
   

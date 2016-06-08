@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:37:38.217754
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:27
 #+TITLE: 楞嚴經正脉疏科
 #+PROPERTY: CBETA_ID X12n0273
 #+PROPERTY: ID KR6j0681
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 12, No. 273
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0681_X_008-0149a> 
 #+PROPERTY: JUAN 8
-
- 楞嚴正脉八卷科文¶
+楞嚴正脉八卷科文¶
 ¶
 
   
@@ -415,7 +414,7 @@
   * 一臨終見墜(六者)¶
   * 二本根發相(發明)¶
   * 三正詳交報(如是)¶
-  * 三總結妄造(阿難)¶
+  * 二總結妄造(阿難)¶
   * 二分析因殊果別(二)¶
   
   * 一約惡業根境以分重輕(二)¶
@@ -475,7 +474,7 @@
   
   * 一有力人償(如彼)¶
   * 二無力畜償(若無)¶
-  * 二負命吞殺不已(三)¶
+  * 二負命吞殺不巳(三)¶
   
   * 一先明剩債易償(阿難)¶
   * 二正明負命難解(如於)¶
@@ -519,7 +518,7 @@
   * 一分欲重輕(六)¶
   
   * 一四王天(阿難)¶
-  * 二忉利天(於己)¶
+  * 二忉利天(於巳)¶
   * 三焰摩天(逢欲)¶
   * 四兜率天(一切)¶
   * 五變化天(我無)¶
